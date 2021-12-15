@@ -1,16 +1,16 @@
 {
   "private": true,
-  "displayName": "Plugin Name",
-  "name": "homebridge-plugin-name",
-  "version": "1.0.0",
-  "description": "A short description about what your plugin does.",
+  "displayName": "DLink w118 Smart Plug",
+  "name": "homebridge-w118",
+  "version": "0.0.1",
+  "description": "HomeBridge plugin for DLink w118.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git://github.com/USERNAME/GITHUB_PROJECT_NAME.git"
+    "url": "git://github.com/mfwhatever/homebridge-w118"
   },
   "bugs": {
-    "url": "https://github.com/USERNAME/GITHUB_PROJECT_NAME/issues"
+    "url": "https://github.com/mfwhatever/homebridge-w118/issues"
   },
   "engines": {
     "node": ">=14.18.1",
